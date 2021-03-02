@@ -12,3 +12,4 @@ apt-get install 123456
 
 
 # footer
+(c) 2021 Me
